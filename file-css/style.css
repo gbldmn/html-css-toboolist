@@ -2,3 +2,13 @@
 #logo {
     vertical-align: middle;
 }
+.bot-1 {
+    background-color: skyblue;
+    color: white;
+    padding: 5px;
+}
+button {
+    background-color: white;
+    color: gray;
+    padding: 5px;
+}
