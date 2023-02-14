@@ -39,3 +39,21 @@ button {
 ul li {
     padding: 10px;
 }
+.but-5{
+    border-radius: 40%;
+    background-color: rebeccapurple;
+    padding: 5px 8px;
+    color: white;
+}
+.but-6{
+    border-radius: 40%;
+    background-color: darkgoldenrod;
+    padding: 5px 8px;
+    color: white;
+}
+.but-7 {
+    border-radius: 40%;
+    background-color: blue;
+    padding: 5px 8px;
+    color: white;
+}
