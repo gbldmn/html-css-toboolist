@@ -1,8 +1,9 @@
 
 
 .container {
-    margin: auto;
+    margin: 20px auto;
     max-width: 80%;
+    display: block;
 }
 /* logo */
 #logo {
@@ -47,6 +48,7 @@ button {
  ul li{
     padding: 10px;
     list-style-type: none;
+    list-style-type: circle;
     
 }
 .but-5{
