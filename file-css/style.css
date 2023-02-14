@@ -11,9 +11,31 @@ button {
     background-color: white;
     color: gray;
     padding: 5px;
+    /* colori cerchi liste */
 }
 .but-1{
     border-radius: 40%;
     background-color: skyblue;
     padding: 5px 8px;
+}
+.but-2 {
+    border-radius: 40%;
+    background-color: blueviolet;
+    padding: 5px 8px;
+    color: white;
+}
+.but-3 {
+    border-radius: 40%;
+    background-color: green;
+    padding: 5px 8px;
+    color: white;
+}
+.but-4 {
+    border-radius: 40%;
+    background-color: orange;
+    padding: 5px 8px;
+    color: white;
+}
+ul li {
+    padding: 10px;
 }
