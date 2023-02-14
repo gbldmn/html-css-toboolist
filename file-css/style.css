@@ -12,11 +12,13 @@
     background-color: skyblue;
     color: white;
     padding: 5px;
+    border-radius: 10px;
 }
 button {
     background-color: white;
     color: gray;
     padding: 5px;
+    border-radius: 10px;
     /* colori cerchi liste */
 }
 .but-1{
@@ -42,8 +44,10 @@ button {
     padding: 5px 8px;
     color: white;
 }
-ul li {
+ ul li{
     padding: 10px;
+    list-style-type: none;
+    
 }
 .but-5{
     border-radius: 40%;
@@ -68,4 +72,10 @@ ul li {
     border: 1px solid red;
     border-radius: 50%;
     padding: 5px 5px;
+}
+
+ .color{
+
+    list-style-type: "\25B2  ";
+
 }
