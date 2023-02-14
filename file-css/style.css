@@ -1,3 +1,9 @@
+
+
+.container {
+    margin: auto;
+    max-width: 80%;
+}
 /* logo */
 #logo {
     vertical-align: middle;
@@ -56,4 +62,10 @@ ul li {
     background-color: blue;
     padding: 5px 8px;
     color: white;
+}
+
+.circle {
+    border: 1px solid red;
+    border-radius: 50%;
+    padding: 5px 5px;
 }
